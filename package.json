@@ -1,6 +1,12 @@
 {
   "name": "everyday-function",
   "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Rizki Maulana Citra",
+    "email": "rmaulana.citra@gmail.com",
+    "url": "https://github.com/rizkimcitra"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
