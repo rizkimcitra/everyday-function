@@ -7,7 +7,7 @@ const Header = () => {
     'text-transparent bg-gradient-to-r from-violet-500 to-rose-500 bg-clip-text xl:text-5xl xl:py-2',
     'Everyday Function'
   )
-  const logo = createElement('span', 'text-xl md:text-2xl font-bold', '⚒')
+  const logo = createElement('span', 'text-xl md:text-2xl font-bold', '🛠️')
 
   header.append(logo, heading)
   return header
