@@ -7,23 +7,23 @@
     margin-bottom: 1.5em;
   }
   h1 {
-    @apply font-primary text-2xl font-bold md:text-4xl;
+    @apply font-primary text-2xl font-bold md:text-4xl text-neutral-200;
   }
 
   h2 {
-    @apply font-primary text-xl font-bold md:text-3xl;
+    @apply font-primary text-xl font-bold md:text-3xl text-neutral-200;
   }
 
   h3 {
-    @apply font-primary text-lg font-bold md:text-2xl;
+    @apply font-primary text-lg font-bold md:text-2xl text-neutral-200;
   }
 
   h4 {
-    @apply font-primary text-base font-bold md:text-lg;
+    @apply font-primary text-base font-bold md:text-lg text-neutral-200;
   }
 
   body {
-    @apply font-primary text-sm md:text-base;
+    @apply font-primary text-sm md:text-base text-neutral-300 bg-neutral-900;
   }
 }
 
